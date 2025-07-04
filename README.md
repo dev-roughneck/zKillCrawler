@@ -83,7 +83,6 @@
 - **Interactive Analytics**: Rich Discord embeds with detailed statistics
 - **Historical Data**: Persistent storage of all matched killmails
 - **Feed Performance**: Statistics on filter effectiveness and match rates
-- **Export Capabilities**: Data available via health endpoints for external analysis
 
 ## 🎮 Discord Commands
 
