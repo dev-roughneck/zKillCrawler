@@ -37,13 +37,11 @@
 - **Distance-based Filtering**:
   - **Lightyear Distance**: Within X LY of reference system
   - **Jump Distance**: Within X gate jumps of reference system
-  - **Real-time Pathfinding**: Dynamic route calculation
 
 #### 💰 Value & Economics Filters
 - **ISK Value Ranges**: Filter by kill value with intuitive notation
   - Support for "10b" (10 billion), "500m" (500 million), "1.5b" formats
   - Minimum and maximum value thresholds
-- **Loot Value Analysis**: Separate tracking of ship value vs. dropped loot
 
 #### 🎯 Faction Warfare Integration
 - **FW System Status**: Filter by contested, vulnerable, or captured systems
